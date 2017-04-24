@@ -1,5 +1,5 @@
 <?php
-namepsace \Ford\Escape;
+namespace Ford\Escape;
 class Escape2016
 {
 	public static function info()
