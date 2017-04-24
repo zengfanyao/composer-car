@@ -8,10 +8,7 @@ class Escape2016
         	echo "This is Ford Escape2016sdfsdfsf";
     }
 
-  	public function FunctionName($value='')
-  	{
-  		# code...
-  	}
+  
   	public function test()
   	{
   		echo 11111;
