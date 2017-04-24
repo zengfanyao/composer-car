@@ -1,9 +1,8 @@
 {
     "name": "zfy/composer-car",
     "description": "This is a demp for build composer packaglist",
-    "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "version": "1.0.0",
     "require": {
 	   "php": ">=5.5"
        
