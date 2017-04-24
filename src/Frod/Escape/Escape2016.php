@@ -16,6 +16,11 @@ class Escape2016
   		echo 11111;
   	}
 
+    public function test1($value='')
+    {
+      # code...
+    }
+
 
 }
 
