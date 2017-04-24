@@ -1,5 +1,6 @@
 <?php
 namespace Ford\Ford\Escape;
+
 class Escape2016
 {
 	public static function info()
@@ -26,7 +27,10 @@ class Escape2016
       
       echo "111111";
     }
-
+    public function test12()
+    {
+      echo "111111111";
+    }
 
 
 
