@@ -5,7 +5,7 @@ class Escape2016
 {
 	public static function info()
 	{
-        	echo "This is Ford Escape2016";
+        	echo "This is Ford Escape2016sdfsdfsf";
     }
 
   	public function FunctionName($value='')
