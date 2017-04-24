@@ -3,6 +3,7 @@
     "description": "This is a demp for build composer packaglist",
     "license": "MIT",
     "version": "1.0.0",
+    "minimum-stability":"stable",
     "require": {
 	   "php": ">=5.5"
     },
