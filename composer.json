@@ -9,7 +9,8 @@
     },
     "autoload":{
     	"psr-4":{
-	     "Ford\\Escape\\":"src/Ford/Escape"
+            "Ford\\":"src/"
+	   
 	   }
     }
 }
